@@ -1,0 +1,17 @@
+h1{
+    color:greenyellow
+}
+P{
+    color:royalblue
+}
+.nuclear{
+    background-color: sandybrown;
+    display:flex;
+    justify-content: space-evenly
+
+}
+.terax{
+    display:flex;
+    justify-content: flex-end
+
+}
